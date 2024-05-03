@@ -10,24 +10,11 @@ The ubiquitousness of smartphones enables people to announce an emergency theyâ€
 
 Link to Competition: [NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started).
 
-# Required Libraries
+# Required Packages
 Ensure the following libraries are installed to execute this project:
 - pandas
 - nltk
 - scikit-learn (sklearn)
-
-# Repository Files
-- readme.md: The current README file.
-- Submission Result on Kaggle.png: Screenshot of the competition result on Kaggle (score: 0.79558).
-- nlp_disaster_tweets_competition.ipynb: Jupyter notebook containing the project development.
-- sample_submission.csv: Sample CSV file demonstrating the required format for submission on Kaggle.
-- submission_ensemble.csv: CSV file of the final project submission for Kaggle.
-- test.csv: CSV file containing test data.
-- train.csv: CSV file containing training data.
-
-Feel free to explore the notebook (nlp_disaster_tweets_competition.ipynb) for detailed insights into the project development and methodologies employed. 
-
-If you have any questions or suggestions, don't hesitate to reach out!
 
 # How to Use
 To reproduce the projects, follow these steps:
@@ -38,7 +25,17 @@ To reproduce the projects, follow these steps:
 - Analyze the results and conclusions presented in each section.
 - Contributions
 
-Contributions are welcome! If you find any issues or have suggestions to improve this project, feel free to open an issue or submit a pull request.
+# Repository 
+- submission: Screenshot of the competition result on Kaggle (score: 0.79558).
+- visualizations: This folder contains images generated during the project.
+- nlp_disaster_tweets_competition.ipynb: Jupyter notebook containing the project development.
+- sample_submission.csv: Sample CSV file demonstrating the required format for submission on Kaggle.
+- test.csv: CSV file containing test data.
+- train.csv: CSV file containing training data.
+
+Feel free to explore the notebook (nlp_disaster_tweets_competition.ipynb) for detailed insights into the project development and methodologies employed. 
+
+If you have any questions or suggestions, don't hesitate to reach out!
 
 # Author
 Julio Cesar Yamashita Martins - Developer and Data Scientist
