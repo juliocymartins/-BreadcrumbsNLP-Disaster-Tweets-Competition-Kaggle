@@ -26,7 +26,7 @@ To reproduce the projects, follow these steps:
 - Contributions
 
 # Repository 
-- submission: Screenshot of the competition result on Kaggle (score: 0.79558).
+- submission: Submission file and screenshot of the competition result on Kaggle (score: 0.79558).
 - visualizations: This folder contains images generated during the project.
 - nlp_disaster_tweets_competition.ipynb: Jupyter notebook containing the project development.
 - sample_submission.csv: Sample CSV file demonstrating the required format for submission on Kaggle.
